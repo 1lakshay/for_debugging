@@ -1,0 +1,1 @@
+web: uvicorn debug_os_environ --host 0.0.0.0 --port 8000
